@@ -3,3 +3,6 @@ resource "spaceship_crew_member" "manuel_T" {
   experience  = "2.5 years"
   specialty   = "IT Security"
 }
+
+
+sadas
